@@ -12,9 +12,7 @@ Wickedly Well is a sacred wellness platform for modern mystics. Explore curated 
 ### Beta App Review Notes
 This is a wellness content app. No account is required to browse public content. Users can create an account to access subscriber-only articles and resources.
 
-Test credentials for reviewer:
-- Email: reviewer@wickedlywell.com
-- Password: TestFlight2026
+Test credentials for reviewer: entered in App Store Connect directly. Not kept in this public repo.
 
 The app currently uses demo content. A live backend will be connected in a future update.
 
@@ -29,15 +27,10 @@ The app currently uses demo content. A live backend will be connected in a futur
 - Check that all pillar detail pages load with content
 
 ### Contact Information
-- First Name: Curtis
-- Last Name: Browne
-- Email: gigandgle@gmail.com
-- Phone: (use your phone number)
+Entered in App Store Connect directly. Not kept in this public repo.
 
 ### Demo Account
-- Email: bella@wickedlywell.com
-- Password: TestFlight2026
-(This email grants admin access in the app)
+Entered in App Store Connect directly. Not kept in this public repo.
 
 ---
 
